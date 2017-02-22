@@ -1,1 +1,2 @@
-scikit-learn study
+scikit-learn projects
+
